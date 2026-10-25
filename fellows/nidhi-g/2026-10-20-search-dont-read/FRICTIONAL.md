@@ -13,7 +13,7 @@ Project repository: [agentic-repl](https://github.com/nidhi-humanitarians/agenti
 - **Where it resisted / what I did next:** The project was dropped on 2026-10-06 because of differing competency expectations from the project managers. I was reassigned to agentic search: run Earendil's Pi agent with a Python REPL and fine-tune it to search 2,000+ page books.
 - **Claude / others:** [Nidhi: discussions with Dhruv / Shilpa, with dates.]
 - **Understand now / still don't:** [Nidhi.]
-- **Evidence:** [HOURS: Weeks 1–2](../HOURS.md#week-1--2026-09-23-to-2026-09-29) · [Nidhi: link to research notes, if any.]
+- **Evidence:** [Nidhi: link to research notes, if any.]
 
 ## 2026-10-11 — First agentic-search test
 *(Written late on 2026-10-24; describes work from Week 3, mainly 2026-10-11.)*
@@ -23,7 +23,7 @@ Project repository: [agentic-repl](https://github.com/nidhi-humanitarians/agenti
 - **Where it resisted / what I did next:** Debugged evident issues locally. Tested on BABILong qa2 at 128k tokens (6,429 lines, ~275 pages). First run: correct answer ("kitchen"), 11 code runs, citing lines 3780 / 5091 / 5187 / 6021. One question, one run, so very early.
 - **Claude / others:** [Nidhi: what you wrote vs. what an AI wrote.]
 - **Understand now / still don't:** One run isn't evidence yet. Still open: stricter scoring, sandboxing the code, connecting the real Pi agent. [Nidhi.]
-- **Evidence:** [agentic-repl](https://github.com/nidhi-humanitarians/agentic-repl) · `evals/last_run.json` · [HOURS: Week 3](../HOURS.md#week-3--2026-10-07-to-2026-10-13)
+- **Evidence:** [agentic-repl](https://github.com/nidhi-humanitarians/agentic-repl) · `evals/last_run.json`
 
 ## [Nidhi: date] — Trying the real Pi agent
 *(Written late on 2026-10-24; describes work from Week 4, 2026-10-14 – 2026-10-20.)*
@@ -32,7 +32,7 @@ Project repository: [agentic-repl](https://github.com/nidhi-humanitarians/agenti
 - **Where it resisted / what I did next:** After discovering an error, I tried connecting to the Pi agent directly, then decided to keep the setup local for testing. [Nidhi: what the error was.]
 - **Claude / others:** Attended a group meeting this week. [Nidhi: any feedback from it.]
 - **Understand now / still don't:** [Nidhi.]
-- **Evidence:** [agentic-repl](https://github.com/nidhi-humanitarians/agentic-repl) · [HOURS: Week 4](../HOURS.md#week-4--2026-10-14-to-2026-10-20)
+- **Evidence:** [agentic-repl](https://github.com/nidhi-humanitarians/agentic-repl)
 
 ## 2026-10-20 — Making the progress video
 *(Written late on 2026-10-24; describes work from 2026-10-20, ~14:15–17:50.)*

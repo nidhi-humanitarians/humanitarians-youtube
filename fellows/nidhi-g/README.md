@@ -27,7 +27,7 @@ I graduated from North Carolina State University (NCSU) with a B.S. in Computer 
 
 Each **Hours** figure links to that week in [HOURS.md](HOURS.md). **Process logs** are the FRICTIONAL.md files in each video folder.
 
-| Week | Start | End | Hours | STEM/AI video | Progress video | Process logs | Other evidence |
+| Week | Start | End | Hours | STEM/AI video | Progress video | Process logs | Other Evidence/Notes |
 |---|---|---|---|---|---|---|---|
 | 0 | 2026-09-14 | 2026-09-22 | — | — | — | — | Agreement signing period; signed agreement received 2026-09-22 |
 | 1 | 2026-09-23 | 2026-09-29 | [5](HOURS.md#week-1--2026-09-23-to-2026-09-29) | — | — | — | — |

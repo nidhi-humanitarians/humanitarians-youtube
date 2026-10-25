@@ -17,7 +17,7 @@ Counts toward: Week 3 (2026-10-07 – 2026-10-13), progress video
   - A local fix was needed for Windows: `remotion_scenes.py` now finds `npx` with `shutil.which`.
 - **Claude / others:** I gave Claude Code the goal and the errors to work from. It diagnosed them, explained them until they made sense, and ran the environment setup and install at my request ("Could you do it for me?"). I chose the fixes, including moving the folder rather than editing the check. [Nidhi: discussion of the setup issues with Dhruv / Shilpa, with date.]
 - **Understand now / still don't:** Now: read the error before fixing anything; gates are checks, not bugs; isolate Python per project. The toolkit's maintainers fixed both the ElevenLabs check and the Python requirement on 2026-10-11 (commits by meenuviji); my copy came before those fixes. [Nidhi: still unclear.]
-- **Evidence:** [FACTCHECK.md](FACTCHECK.md) (every claim traced to real output) · `brutalist` git reflog (fresh clone of `nikbearbrown/brutalist.art`) · `brutalist` commits of 2026-10-11 ("setup: skip youtube/ and .venv/ in the ElevenLabs guard"; "setup: require python3 >= 3.10") · [HOURS: Week 3](../HOURS.md#week-3--2026-10-07-to-2026-10-13)
+- **Evidence:** [FACTCHECK.md](FACTCHECK.md) (every claim traced to real output) · `brutalist` git reflog (fresh clone of `nikbearbrown/brutalist.art`) · `brutalist` commits of 2026-10-11 ("setup: skip youtube/ and .venv/ in the ElevenLabs guard"; "setup: require python3 >= 3.10")
 
 ## 2026-10-11 → 10-12 — Making the video as proof the install works
 *(Written late on 2026-10-24; describes work from 2026-10-11 23:13 to 2026-10-12 ~15:45.)*

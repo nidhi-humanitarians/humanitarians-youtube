@@ -17,4 +17,4 @@ Week 2 (2026-09-30 – 2026-10-06) · Setup test, not a weekly video
   - I later deleted the old install and started over from a fresh copy. See [Brutalist, Installed.](../2026-10-12-brutalist-installed/FRICTIONAL.md).
 - **Claude / others:** I supplied the topic and the test brief. Claude Code drafted the beat sheet and scenes and ran the build, working around one checker limitation (it can't see `.animate` moves, so FadeIn/FadeOut instead). I reviewed the results.
 - **Understand now / still don't:** Now: duration is an output, not a target. Getting partway through (audio and some renders) doesn't mean the install works. [Nidhi.]
-- **Evidence:** [build-state.json](build-state.json) · [BUILD-LOG.md](BUILD-LOG.md) · [BUILD-PROMPT.md](BUILD-PROMPT.md) · [CHECKS-REPORT.md](CHECKS-REPORT.md) · [HOURS: Week 2](../HOURS.md#week-2--2026-09-30-to-2026-10-06)
+- **Evidence:** [build-state.json](build-state.json) · [BUILD-LOG.md](BUILD-LOG.md) · [BUILD-PROMPT.md](BUILD-PROMPT.md) · [CHECKS-REPORT.md](CHECKS-REPORT.md)

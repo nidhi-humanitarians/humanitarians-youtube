@@ -12,7 +12,7 @@ Project repository: [agentic-repl](https://github.com/nidhi-humanitarians/agenti
 - **What I was working on:** [Nidhi: the original approach for this video.]
 - **Where it resisted / what I did next:** Parts of the video were generated, then the approach was reworked and the video recreated on 2026-10-22. The files from this pass were deleted, so no renders or logs survive. [Nidhi: what was wrong with the first approach, and who flagged it.]
 - **Claude / others:** [Nidhi.]
-- **Evidence:** None kept (files deleted). Recorded from my account. · [HOURS: Week 4](../HOURS.md#week-4--2026-10-14-to-2026-10-20)
+- **Evidence:** None kept (files deleted). Recorded from my account.
 
 ## 2026-10-22 — Reworked as Part 2 of the series
 *(Written late on 2026-10-24; describes work from 2026-10-22, ~17:40–22:20.)*
