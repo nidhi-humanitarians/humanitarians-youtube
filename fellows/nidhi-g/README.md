@@ -49,7 +49,7 @@ Detailed weekly records: [HOURS.md](HOURS.md). Each video folder has a README (l
 Brutalist video reviews: [to be added]
 
 ## Renewal
-Renewal report: [to be added]
+Renewal report: [RENEWAL.md](RENEWAL.md)
 
 ## Outstanding Issues
 - **Agreement:** The agreement period is listed as 2026-09-14 – 2026-10-31, but the completed, signed contract was received on 2026-09-22 at 21:15. Per program guidance, no work was performed before the signed agreement was in hand, so this record covers 2026-09-23 onward.
