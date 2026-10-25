@@ -1,9 +1,10 @@
 # Nidhi Grover — Humanitarians AI Fellow
 
-**Project:** Iacon Autonomics (RL Environment project)
-**Project Managers:** Dhruv Patel, Shilpa
-**Current agreement:** 2026-09-14 – 2026-10-31
-**GitHub:** [@nidhi-humanitarians](https://github.com/nidhi-humanitarians) · **LinkedIn:** · **Portfolio:**
+**Project:** Iacon Autonomics (RL Environment project)<br>
+**Project Managers:** Dhruv Patel, Shilpa<br>
+**Current agreement:** 2026-09-14 – 2026-10-31<br>
+**GitHub:** [@nidhi-humanitarians](https://github.com/nidhi-humanitarians)<br>
+**LinkedIn:** [nidhirg57](https://www.linkedin.com/in/nidhirg57/)
 
 ## About
 I graduated from North Carolina State University (NCSU) with a B.S. in Computer Science, concentrating in Artificial Intelligence, with a minor in Statistics. At Humanitarians AI I work on the Iacon Autonomics (RL Environment) project. I started with a multi-hop retrieval-augmented generation (RAG) subproject, which I'm now wrapping up. I'm also building a habit compiler (Myelin) to make LLM pipeline tasks faster and cheaper to run.
@@ -12,17 +13,15 @@ I graduated from North Carolina State University (NCSU) with a B.S. in Computer 
 
 | Project | What it is | Repository | Status |
 |---|---|---|---|
-| **Multi-hop RAG / agentic search** | Can an agent answer questions over documents far too long to read by writing code to search them? A Pi-style agent loop with a Python REPL, tested on the BABILong multi-hop benchmark. | [agentic-repl](https://github.com/nidhi-humanitarians/agentic-repl) | Wrapping up |
+| **Multi-hop RAG / agentic search** | Can an agent answer questions over documents far too long to read by writing code to search them? A Pi-style agent loop with a Python REPL, tested on the BABILong multi-hop benchmark. | [agentic-repl](https://github.com/nidhi-humanitarians/agentic-repl) | Testing, debugging and write-up |
 | **Myelin (LLM habit compiler)** | Spots repetitive decisions in agent traces and compiles them into fast, deterministic code that abstains when unsure, so the LLM is called only when needed. | [myelin](https://github.com/nidhi-humanitarians/myelin) | Initial research, technical specification and scaffolding done |
-| Kaggle Gemma Hackathon *(dropped)* | Post-training Google's Gemma as a developer agent. Research only (RLVR, post-training, QLoRA, GPU acceleration). | — | Dropped 2026-10-06 |
 
 ## Research / Project Plan
 
 | Deliverable | Target date | Status |
 |---|---|---|
-| Multi-hop RAG: final write-up and wrap-up ([agentic-repl](https://github.com/nidhi-humanitarians/agentic-repl)) | [Date] | In progress |
-| Myelin: habit compiler ([myelin](https://github.com/nidhi-humanitarians/myelin)) | [Date] | In progress |
-| Myelin: dashboard ([myelin](https://github.com/nidhi-humanitarians/myelin)) | [Date] | Not started |
+| Multi-hop RAG: final write-up and wrap-up ([agentic-repl](https://github.com/nidhi-humanitarians/agentic-repl)) | — | In progress |
+| Myelin: habit compiler ([myelin](https://github.com/nidhi-humanitarians/myelin)) | 2026-10-27 | In progress |
 
 ## Weekly Evidence Index
 
