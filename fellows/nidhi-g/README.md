@@ -25,26 +25,26 @@ I graduated from North Carolina State University (NCSU) with a B.S. in Computer 
 
 ## Weekly Evidence Index
 
-Detailed weekly records: [HOURS.md](HOURS.md). Each video folder has a README (links to the videos) and a FRICTIONAL.md (process log).
+Each **Hours** figure links to that week in [HOURS.md](HOURS.md). **Process logs** are the FRICTIONAL.md files in each video folder.
 
-| Week | Start | End | Actual hours | Video links | Log and work evidence |
-|---|---|---|---|---|---|
-| 0 | 2026-09-14 | 2026-09-22 | — | None (agreement signing period) | Signed agreement received 2026-09-22 |
-| 1 | 2026-09-23 | 2026-09-29 | 5 | None | [HOURS: Week 1](HOURS.md#week-1--2026-09-23-to-2026-09-29) |
-| 2 | 2026-09-30 | 2026-10-06 | 20 | None (two failed setup test reels) | [HOURS: Week 2](HOURS.md#week-2--2026-09-30-to-2026-10-06) · [binary-search-test](2026-10-02-binary-search-test/) · [ribosomes-read-mrna](2026-10-02-claude-liam-ribosomes-read-mrna/) |
-| 3 | 2026-10-07 | 2026-10-13 | 20.2 | [Progress: Brutalist Installation](https://www.youtube.com/watch?v=t2tT4li77jM) · [STEM: Why RAG fails for complex texts](https://www.youtube.com/watch?v=bgagiyyImeI) *(made late, 2026-10-22)* | [HOURS: Week 3](HOURS.md#week-3--2026-10-07-to-2026-10-13) · [Brutalist, Installed. log](2026-10-12-brutalist-installed/FRICTIONAL.md) · [Stuff It or Search It? log](2026-10-22-stuff-or-search/FRICTIONAL.md) · [agentic-repl](https://github.com/nidhi-humanitarians/agentic-repl) |
-| 4 | 2026-10-14 | 2026-10-20 | 20 | [Progress: Multi Hop Reasoning Project Update](https://www.youtube.com/watch?v=q5kbQpRghHs) · [STEM: Multi Hop Search](https://www.youtube.com/watch?v=rZhI6hPbIOs) *(completed late, 2026-10-22)* | [HOURS: Week 4](HOURS.md#week-4--2026-10-14-to-2026-10-20) · [Search, Don't Read. log](2026-10-20-search-dont-read/FRICTIONAL.md) · [Multi-Hop Search log](2026-10-22-multi-hop-search/FRICTIONAL.md) · [agentic-repl](https://github.com/nidhi-humanitarians/agentic-repl) |
-| 5 | 2026-10-21 | 2026-10-27 | 13 (so far) | Progress video in progress | [HOURS: Week 5](HOURS.md#week-5--2026-10-21-to-2026-10-27-in-progress) · [myelin](https://github.com/nidhi-humanitarians/myelin) |
-
-**STEM/AI playlist:** [Humanitarians AI Conceptual Videos](https://www.youtube.com/playlist?list=PLBfwlskHBwRM)<br>
-**Progress playlist:** [Humanitarians AI Update Videos](https://www.youtube.com/playlist?list=PLMg75wq-4wVw)<br>
-**Renders:** [Google Drive](https://drive.google.com/drive/folders/1urwoGwLCSoS4XG3U7dz-HtGePkXyDaGY)
+| Week | Start | End | Hours | STEM/AI video | Progress video | Process logs | Other evidence |
+|---|---|---|---|---|---|---|---|
+| 0 | 2026-09-14 | 2026-09-22 | — | — | — | — | Agreement signing period; signed agreement received 2026-09-22 |
+| 1 | 2026-09-23 | 2026-09-29 | [5](HOURS.md#week-1--2026-09-23-to-2026-09-29) | — | — | — | — |
+| 2 | 2026-09-30 | 2026-10-06 | [20](HOURS.md#week-2--2026-09-30-to-2026-10-06) | — (setup failed) | — (setup failed) | [Setup test 1](2026-10-02-binary-search-test/FRICTIONAL.md)<br>[Setup test 2](2026-10-02-claude-liam-ribosomes-read-mrna/FRICTIONAL.md)<br>[Project change](2026-10-20-search-dont-read/FRICTIONAL.md#2026-10-06--project-change) | — |
+| 3 | 2026-10-07 | 2026-10-13 | [20.2](HOURS.md#week-3--2026-10-07-to-2026-10-13) | [Why RAG fails for complex texts](https://www.youtube.com/watch?v=bgagiyyImeI)<br>*(made late, 2026-10-22)* | [Brutalist Installation](https://www.youtube.com/watch?v=t2tT4li77jM)<br>*(2026-10-12)* | [STEM](2026-10-22-stuff-or-search/FRICTIONAL.md)<br>[Progress](2026-10-12-brutalist-installed/FRICTIONAL.md) | [agentic-repl](https://github.com/nidhi-humanitarians/agentic-repl) |
+| 4 | 2026-10-14 | 2026-10-20 | [20](HOURS.md#week-4--2026-10-14-to-2026-10-20) | [Multi Hop Search](https://www.youtube.com/watch?v=rZhI6hPbIOs)<br>*(completed late, 2026-10-22)* | [Multi Hop Reasoning Project Update](https://www.youtube.com/watch?v=q5kbQpRghHs)<br>*(2026-10-20)* | [STEM](2026-10-22-multi-hop-search/FRICTIONAL.md)<br>[Progress](2026-10-20-search-dont-read/FRICTIONAL.md) | [agentic-repl](https://github.com/nidhi-humanitarians/agentic-repl) |
+| 5 | 2026-10-21 | 2026-10-27 | [13 (so far)](HOURS.md#week-5--2026-10-21-to-2026-10-27-in-progress) | — | In progress | — | [myelin](https://github.com/nidhi-humanitarians/myelin) |
 
 ## Completed Results
 
 1. **Working Brutalist setup and four published videos**: After two failed setup attempts, I got Brutalist running on Windows (isolated Python 3.12 environment, a Windows `npx` fix) and produced four videos in 16:9 and 9:16, from content and materials I provided and scripts I reviewed, edited and approved. Evidence: [Brutalist, Installed.](2026-10-12-brutalist-installed/) · [Search, Don't Read.](2026-10-20-search-dont-read/) · [Stuff It or Search It?](2026-10-22-stuff-or-search/) · [Multi-Hop Search](2026-10-22-multi-hop-search/)
 2. **Agentic search test harness (multi-hop RAG)**: Set up a repository with a Pi-style agent loop and a Python REPL (search helpers such as `grep` and `read_lines`), and tested it on BABILong qa2 at 128k tokens. On the first test question, it found the scattered facts and answered correctly, citing the lines it used. Evidence: [agentic-repl](https://github.com/nidhi-humanitarians/agentic-repl)
 3. **Myelin: initial research and technical specification**: Completed preliminary research, a technical design specification, and the basic repository scaffolding and testing for the LLM habit compiler. Evidence: [myelin](https://github.com/nidhi-humanitarians/myelin) · [design specification](https://github.com/nidhi-humanitarians/myelin/blob/main/docs/DESIGN_SPECIFICATION.md)
+
+**STEM/AI playlist:** [Humanitarians AI Conceptual Videos](https://www.youtube.com/playlist?list=PLBfwlskHBwRM)<br>
+**Progress playlist:** [Humanitarians AI Update Videos](https://www.youtube.com/playlist?list=PLMg75wq-4wVw)<br>
+**Renders:** [Google Drive](https://drive.google.com/drive/folders/1urwoGwLCSoS4XG3U7dz-HtGePkXyDaGY)
 
 ## Reviews
 Brutalist video reviews: [to be added]
