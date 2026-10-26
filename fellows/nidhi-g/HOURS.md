@@ -22,19 +22,19 @@ Weekly record of hours and tasks. Hours are split into **Video** (making STEM/AI
 | 2 | 2026-09-30 – 10-06 | 20 | 14 | 6 | |
 | 3 | 2026-10-07 – 10-13 | 20.2 | 10.2 | 10 | |
 | 4 | 2026-10-14 – 10-20 | 20 | 10 | 10 | |
-| 5 | 2026-10-21 – 10-27 | 13 (so far) | 7 | 6 | In progress (as of 2026-10-24) |
-| **Total** | | **78.2** | **41.2** | **37** | |
+| 5 | 2026-10-21 – 10-27 | 16 (so far) | 10 | 6 | In progress (as of 2026-10-25) |
+| **Total** | | **81.2** | **44.2** | **37** | |
 
 ---
 
-## Week 0 — 2026-09-14 to 2026-09-22
+## Week 0: 2026-09-14 to 2026-09-22
 
 **Hours:** — (no work)
 
 - Initial 8-day period for signing the agreement.
 - Fully signed agreement received on 2026-09-22 at 21:15. No work was done before the signed agreement was in hand.
 
-## Week 1 — 2026-09-23 to 2026-09-29
+## Week 1: 2026-09-23 to 2026-09-29
 
 **Hours:** 5 · Video 0 · Research 5
 
@@ -44,7 +44,7 @@ Weekly record of hours and tasks. Hours are split into **Video** (making STEM/AI
 
 **Note:** Below 20 hours. This was the first week after the agreement was signed, spent on onboarding and project assignment.
 
-## Week 2 — 2026-09-30 to 2026-10-06
+## Week 2: 2026-09-30 to 2026-10-06
 
 **Hours:** 20 · Video 14 · Research 6
 
@@ -53,7 +53,7 @@ Weekly record of hours and tasks. Hours are split into **Video** (making STEM/AI
 
 **Note:** The Gemma Hackathon project was dropped on 2026-10-06 because of differing competency expectations from the project managers.
 
-## Week 3 — 2026-10-07 to 2026-10-13
+## Week 3: 2026-10-07 to 2026-10-13
 
 **Hours:** 20.2 · Video 10.2 · Research 10
 
@@ -62,7 +62,7 @@ Weekly record of hours and tasks. Hours are split into **Video** (making STEM/AI
 - Set up the initial Git repository for the multi-hop RAG problem ([agentic-repl](https://github.com/nidhi-humanitarians/agentic-repl)) and debugged evident issues locally.
 - Researched evaluation metrics and benchmarks to use.
 
-## Week 4 — 2026-10-14 to 2026-10-20
+## Week 4: 2026-10-14 to 2026-10-20
 
 **Hours:** 20 · Video 10 · Research 10
 
@@ -71,9 +71,9 @@ Weekly record of hours and tasks. Hours are split into **Video** (making STEM/AI
 - Continued testing and debugging the multi-hop RAG agent ([agentic-repl](https://github.com/nidhi-humanitarians/agentic-repl)) on BABILong multi-hop questions over long documents. Tried connecting to the Pi agent directly after discovering an error, then decided to keep it local for testing.
 - Received a new problem assignment: Myelin, an LLM habit compiler ([myelin](https://github.com/nidhi-humanitarians/myelin)). Conducted preliminary research, including RLCD (reinforcement learning for calibrated decisions) for calibrating when a compiled habit should answer "unsure".
 
-## Week 5 — 2026-10-21 to 2026-10-27 (in progress)
+## Week 5: 2026-10-21 to 2026-10-27 (in progress)
 
-**Hours so far:** 13 · Video 7 · Research 6
+**Hours so far (as of 2026-10-25):** 16 · Video 10 · Research 6
 
 - Created the backdated Week 3 STEM/AI video: [Stuff It or Search It?](2026-10-22-stuff-or-search/)
 - Created the Week 5 progress video: [Myelin: Teaching Agents Habits](2026-10-24-myelin-habits/)
