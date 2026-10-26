@@ -1,6 +1,8 @@
 # Hours Log — Nidhi Grover
 
-**Fellow:** Nidhi Grover · **Project:** Iacon Autonomics (RL Environment project) · **Agreement:** 2026-09-14 – 2026-10-31
+**Fellow:** Nidhi Grover<br>
+**Project:** Iacon Autonomics (RL Environment project)<br>
+**Agreement:** 2026-09-14 – 2026-10-31<br>
 **Project managers:** Dhruv Patel, Shilpa
 
 Weekly record of hours and tasks. Hours are split into **Video** (making STEM/AI and progress videos with Brutalist, including Brutalist setup) and **Research** (research and project work, including meetings).
@@ -66,8 +68,8 @@ Weekly record of hours and tasks. Hours are split into **Video** (making STEM/AI
 
 - Created and reviewed 2 Brutalist videos with iterative changes: [Search, Don't Read.](2026-10-20-search-dont-read/) (progress video) and the first version of [Multi-Hop Search](2026-10-22-multi-hop-search/) (STEM/AI video, completed in Week 5).
 - Attended a group meeting.
-- Continued testing and debugging the multi-hop RAG problem ([agentic-repl](https://github.com/nidhi-humanitarians/agentic-repl)). Tried connecting to the Pi agent directly after discovering an error, then decided to keep it local for testing.
-- Received a new problem assignment: Myelin, an LLM habit compiler ([myelin](https://github.com/nidhi-humanitarians/myelin)). Conducted preliminary research.
+- Continued testing and debugging the multi-hop RAG agent ([agentic-repl](https://github.com/nidhi-humanitarians/agentic-repl)) on BABILong multi-hop questions over long documents. Tried connecting to the Pi agent directly after discovering an error, then decided to keep it local for testing.
+- Received a new problem assignment: Myelin, an LLM habit compiler ([myelin](https://github.com/nidhi-humanitarians/myelin)). Conducted preliminary research, including RLCD (reinforcement learning for calibrated decisions) for calibrating when a compiled habit should answer "unsure".
 
 ## Week 5 — 2026-10-21 to 2026-10-27 (in progress)
 
@@ -75,5 +77,7 @@ Weekly record of hours and tasks. Hours are split into **Video** (making STEM/AI
 
 - Created the backdated Week 3 STEM/AI video: [Stuff It or Search It?](2026-10-22-stuff-or-search/)
 - Created the Week 5 progress video: [Myelin: Teaching Agents Habits](2026-10-24-myelin-habits/)
-- Completed the initial research and technical specification for Myelin, plus basic scaffolding of the repository and testing: [myelin](https://github.com/nidhi-humanitarians/myelin) · [design specification](https://github.com/nidhi-humanitarians/myelin/blob/main/docs/DESIGN_SPECIFICATION.md)
+- Decided on and explored the tau-bench dataset for Myelin: agent traces from GPT-4o and Claude 3.5 Sonnet in the airline and retail domains, analyzed for frequently repeated decisions.
+- Completed the initial research and [technical specification](https://github.com/nidhi-humanitarians/myelin/blob/main/docs/DESIGN_SPECIFICATION.md) for Myelin, and scaffolded the repository ([myelin](https://github.com/nidhi-humanitarians/myelin)).
+- Wrote initial unit tests: trace mining and clustering on the tau-bench airline traces (including the chronological train/test split), the code-safety validator that blocks banned modules, and two example compiled habits (correct extraction, and "unsure" on ambiguous input).
 - Attended a group meeting.
