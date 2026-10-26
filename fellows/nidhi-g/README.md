@@ -38,13 +38,20 @@ Each **Hours** figure links to that week in [HOURS.md](HOURS.md). **Process logs
 
 ## Completed Results
 
-1. **Working Brutalist setup and four published videos**: After two failed setup attempts, I got Brutalist running on Windows (isolated Python 3.12 environment, a Windows `npx` fix) and produced four videos in 16:9 and 9:16, from content and materials I provided and scripts I reviewed, edited and approved. Evidence: [Brutalist, Installed.](2026-10-12-brutalist-installed/) · [Search, Don't Read.](2026-10-20-search-dont-read/) · [Stuff It or Search It?](2026-10-22-stuff-or-search/) · [Multi-Hop Search](2026-10-22-multi-hop-search/)
-2. **Agentic search test harness (multi-hop RAG)**: Set up a repository with a Pi-style agent loop and a Python REPL (search helpers such as `grep` and `read_lines`), and tested it on BABILong qa2 at 128k tokens. On the first test question, it found the scattered facts and answered correctly, citing the lines it used. Evidence: [agentic-repl](https://github.com/nidhi-humanitarians/agentic-repl)
-3. **Myelin: initial research and technical specification**: Completed preliminary research, a technical design specification, and the basic repository scaffolding and testing for the LLM habit compiler. Evidence: [myelin](https://github.com/nidhi-humanitarians/myelin) · [design specification](https://github.com/nidhi-humanitarians/myelin/blob/main/docs/DESIGN_SPECIFICATION.md)
+1. **Brutalist videos**
+   - Set up Brutalist on Windows (after two failed attempts) and produced every video in 16:9 with a matching 9:16 Short.
+   - STEM/AI: *Why RAG fails for complex texts* · *Multi Hop Search*. Progress updates: *Brutalist Installation* · *Multi Hop Reasoning Project Update* · *Myelin Project Update*.
+   - [STEM/AI playlist](https://www.youtube.com/playlist?list=PLBfwlskHBwRM) · [Progress playlist](https://www.youtube.com/playlist?list=PLMg75wq-4wVw) · [Drive renders](https://drive.google.com/drive/folders/1urwoGwLCSoS4XG3U7dz-HtGePkXyDaGY)
 
-**STEM/AI playlist:** [Humanitarians AI Conceptual Videos](https://www.youtube.com/playlist?list=PLBfwlskHBwRM)<br>
-**Progress playlist:** [Humanitarians AI Update Videos](https://www.youtube.com/playlist?list=PLMg75wq-4wVw)<br>
-**Renders:** [Google Drive](https://drive.google.com/drive/folders/1urwoGwLCSoS4XG3U7dz-HtGePkXyDaGY)
+2. **Multi-hop RAG / agentic search** ([agentic-repl](https://github.com/nidhi-humanitarians/agentic-repl))
+   - Built a Pi-style agent harness that searches very long documents by writing and running Python in a REPL.
+   - Benchmarked it on all ten BABILong task types across 20 books of 2,000+ pages each.
+   - Analyzed the failures into four failure modes and proposed a four-layer harness design to fix them.
+
+3. **Myelin: LLM habit compiler** ([myelin](https://github.com/nidhi-humanitarians/myelin))
+   - Analyzed public agent traces (tau-bench airline and retail) to find decisions agents repeat often enough to compile.
+   - Wrote the [technical design specification](https://github.com/nidhi-humanitarians/myelin/blob/main/docs/DESIGN_SPECIFICATION.md): mining, clustering, code synthesis, sandboxed verification with an abstention rule, baselines and deliverables.
+   - Scaffolded the Python package (mining, clustering, synthesis, sandbox, runtime, baseline and dashboard modules) with two example compiled habits and initial tests.
 
 ## Reviews
 Brutalist video reviews: [to be added]
