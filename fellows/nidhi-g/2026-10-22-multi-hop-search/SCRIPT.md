@@ -1,4 +1,4 @@
-# SCRIPT — "Multi-Hop Search: Connecting the Pieces"  (Video 2 of 2)
+# SCRIPT — "Multi-Hop Search: Connecting the Pieces"
 
 Skill: ai-explainer · Channel: claude-hai (@HumanitariansAI) · Voice: Kokoro `af_bella`
 Formats: 16:9 + native 9:16 (built together) · Target ~2:00 (verified after audio; trimmed if over)

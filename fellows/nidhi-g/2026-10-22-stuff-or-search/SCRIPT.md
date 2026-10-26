@@ -1,9 +1,9 @@
-# SCRIPT — "Stuff It or Search It?"  (Video 1 of 2)
+# SCRIPT — "Stuff It or Search It?"
 
 Skill: ai-explainer · Channel: claude-hai (@HumanitariansAI) · Voice: Kokoro `af_bella`
 Formats: 16:9 + native 9:16 (built together) · Target ~2:00 (verified after audio; trimmed if over)
 Status: **DRAFT v1 — awaiting narration approval (GATE P). No audio generated.**
-Covers points 1–9 of the agreed list (10–11 are in Video 2).
+Covers points 1–9 of the agreed list (10–11 are covered in the Multi-Hop Search video).
 
 ---
 
