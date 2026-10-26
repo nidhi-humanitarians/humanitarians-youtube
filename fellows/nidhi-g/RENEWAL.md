@@ -32,9 +32,12 @@ Full version with more detail: [README: Completed Results](README.md#completed-r
 | 5 · 10-21 – 10-25 | 16 | [Progress](https://www.youtube.com/watch?v=uJVnuI_coE8) | [Hours](HOURS.md#week-5-2026-10-21-to-2026-10-27-in-progress) · [Progress log](2026-10-24-myelin-habits/FRICTIONAL.md) |
 
 ## Next Period
-- Myelin habit compiler: 2026-10-27
+- **Multi-hop RAG: iterative benchmarking and debugging.** Run the agent against the complete BABILong benchmark (QA1–QA20; the repo currently covers QA1–QA10 at the 1M-token tier), including its extended longer-context versions, and add other long-document and multi-hop datasets. Work in rounds: run, diagnose the failures, apply fixes from the proposed four-layer harness design, rerun, and compare each round against the current 20-book baseline.
+- **Multi-hop RAG: from prompt to fine-tuned model.** Experiment with moving the search behavior out of the prompt and into the model. Today a model plus a prompt makes an agent; the idea is to fine-tune a very small model so that the prompt's guidance becomes built-in priors, teaching it to search a very large data pool.
+- **Myelin: implementation and initial testing.** Complete the habit compiler implementation and run initial testing on the tau-bench traces, using held-out later sessions and the planned baselines (semantic cache, small classifier, small local model).
+- **Myelin: synthetic dataset (potential).** Generate a large synthetic question-and-answer dataset from a very large, well-established codebase such as scikit-learn or PostgreSQL, where functions represent concepts and models already know the material well. Use DeepSeek to generate the questions and answers and stronger models to judge them, then test how well Myelin learns habits on it.
 - Further projects as assigned by the project managers
 - Weekly videos, FRICTIONAL entries and daily hours, kept at the time of the work
 
 ## Outstanding Issues
-Brutalist setup failures (Week 2) delayed videos; two STEM videos were made late. Initial project (Gemma Hackathon) dropped 2026-10-06. FRICTIONAL logs for Weeks 2–4 were written late and are labeled. Review hours not yet recorded. Details: [README](README.md#outstanding-issues)
+See [README: Outstanding Issues](README.md#outstanding-issues)
