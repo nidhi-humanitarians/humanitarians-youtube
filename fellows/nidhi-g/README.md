@@ -53,9 +53,6 @@ Each **Hours** figure links to that week in [HOURS.md](HOURS.md). **Process logs
    - Wrote the [technical design specification](https://github.com/nidhi-humanitarians/myelin/blob/main/docs/DESIGN_SPECIFICATION.md): mining, clustering, code synthesis, sandboxed verification with an abstention rule, baselines and deliverables.
    - Scaffolded the Python package (mining, clustering, synthesis, sandbox, runtime, baseline and dashboard modules) with two example compiled habits and initial tests.
 
-## Reviews
-Brutalist video reviews: [to be added]
-
 ## Renewal
 Renewal report: [RENEWAL.md](RENEWAL.md)
 
