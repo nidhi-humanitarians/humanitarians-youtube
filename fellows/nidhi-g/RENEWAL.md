@@ -1,15 +1,21 @@
 # Fellowship Renewal — Nidhi Grover
 
-**Project:** Iacon Autonomics (RL Environment) · **PMs:** Dhruv Patel, Shilpa
-**Current agreement:** 2026-09-14 – 2026-10-31 (signed 2026-09-22) · **Reporting period:** 2026-09-23 – 2026-10-25
+**Fellow:** Nidhi Grover<br>
+**Project:** Iacon Autonomics (RL Environment project)<br>
+**Project Managers:** Dhruv Patel, Shilpa<br>
+**Current agreement:** 2026-09-14 – 2026-10-31<br>
+**Signed agreement received:** 2026-09-22<br>
+**Reporting period:** 2026-09-23 – 2026-10-25<br>
 **Requested renewal:** 2026-11-01 – 2026-12-31
 
-After my initial project (Kaggle Gemma Hackathon) was dropped, I moved to agentic search and built and benchmarked a code-REPL search agent for multi-hop questions over very long documents. I then started Myelin, an LLM habit compiler, and completed its research and technical specification. Despite early Brutalist setup issues, I published four videos. I am requesting renewal to complete the multi-hop RAG project, build out the Myelin habit compiler, and take on the further projects my project managers assign.
+After my initial project (Kaggle Gemma Hackathon) was dropped, I moved to agentic search and built and benchmarked a code-REPL search agent for multi-hop questions over very long documents. I then started Myelin, an LLM habit compiler, and completed its research and technical specification. Despite early Brutalist setup issues, I published five videos. I am requesting renewal to complete the multi-hop RAG project, build out the Myelin habit compiler, and take on the further projects my project managers assign.
 
 ## Completed
-1. **Agentic search (multi-hop RAG)**: a Pi-style agent that searches long documents by writing code in a Python REPL. [Benchmark testing and debugging](https://github.com/nidhi-humanitarians/agentic-repl#5-complete-empirical-benchmark-records-1m-context-tier--2500-pages) · [Repository](https://github.com/nidhi-humanitarians/agentic-repl)
-2. **Myelin (LLM habit compiler)**: research, technical specification and repository scaffolding. [Technical specification](https://github.com/nidhi-humanitarians/myelin/blob/main/docs/DESIGN_SPECIFICATION.md) · [Repository](https://github.com/nidhi-humanitarians/myelin)
-3. **Brutalist setup and four videos**: three progress updates and two STEM/AI videos. [STEM/AI playlist](https://www.youtube.com/playlist?list=PLBfwlskHBwRM) · [Progress playlist](https://www.youtube.com/playlist?list=PLMg75wq-4wVw)
+1. **Agentic search (multi-hop RAG)**: built a Pi-style agent that searches very long documents by writing and running Python in a REPL, benchmarked it on all ten BABILong task types across 20 books of 2,000+ pages each, and analyzed the failures with a proposed four-layer fix. [Benchmark testing and debugging](https://github.com/nidhi-humanitarians/agentic-repl#5-complete-empirical-benchmark-records-1m-context-tier--2500-pages) · [Repository](https://github.com/nidhi-humanitarians/agentic-repl)
+2. **Myelin (LLM habit compiler)**: analyzed public tau-bench agent traces to find repeated decisions, wrote the technical specification for compiling them into deterministic code that answers "unsure" when it isn't sure, and scaffolded the Python package with example compiled habits and initial tests. [Technical specification](https://github.com/nidhi-humanitarians/myelin/blob/main/docs/DESIGN_SPECIFICATION.md) · [Repository](https://github.com/nidhi-humanitarians/myelin)
+3. **Brutalist setup and five videos**: set up Brutalist on Windows after two failed attempts and produced five videos, each in 16:9 with a 9:16 Short: three progress updates and two STEM/AI videos on why plain RAG falls short and how multi-hop search connects the pieces. [STEM/AI playlist](https://www.youtube.com/playlist?list=PLBfwlskHBwRM) · [Progress playlist](https://www.youtube.com/playlist?list=PLMg75wq-4wVw)
+
+Full version with more detail: [README: Completed Results](README.md#completed-results)
 
 ## Hours
 20+ hours in Weeks 2–4. Below 20: Week 1 (5 h, onboarding). Week 5 is partial (to 2026-10-25). Full record: [HOURS.md](HOURS.md)
