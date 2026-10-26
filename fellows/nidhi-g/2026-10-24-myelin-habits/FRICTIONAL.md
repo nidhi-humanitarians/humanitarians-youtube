@@ -10,7 +10,7 @@
 ---
 
 ## 2026-10-24 — Plan and script
-*(Written on 2026-10-25; describes work from 2026-10-24, ~21:15–21:30.)*
+*(Written on 2026-10-25; describes work from 2026-10-24.)*
 
 - **What I was working on:** The Week 5 progress video, on the initial plan for Myelin.
 - **Tried / expected:** Asked Claude to explore the myelin repository and follow the same process as the earlier videos: plan, script for my approval, then build.
@@ -21,9 +21,9 @@
 - **Evidence:** [SCRIPT.md](SCRIPT.md) · [FACTCHECK.md](FACTCHECK.md) · [design specification](https://github.com/nidhi-humanitarians/myelin/blob/main/docs/DESIGN_SPECIFICATION.md)
 
 ## 2026-10-24 → 10-25 — Build
-*(Written on 2026-10-25; describes work from 2026-10-24 night to 2026-10-25 ~00:45.)*
+*(Written on 2026-10-25; describes work from 2026-10-24 to 2026-10-25.)*
 
-- **Where it resisted / what I did next:** 16:9: text-size and contrast check (gate T) passed at 00:01; master finished 00:15 (2:10). 9:16: gate T passed on its first run because the pre-render checks were run first (checked 00:36); master finished 00:45; the final frame check sampled 24 frames with no problems.
+- **Where it resisted / what I did next:** 16:9: text-size and contrast check (gate T) passed; master finished, 2:10 long. 9:16: gate T passed on its first run because the pre-render checks were run first; master finished; the final frame check sampled 24 frames with no problems.
 - **Claude / others:** Claude ran the build; I approved the final video.
 - **Understand now / still don't:** Running the cheap checks before the long render removed the fix rounds that slowed the earlier videos.
 - **Evidence:** [TYPECHECK.md](TYPECHECK.md) · [vertical/TYPECHECK.md](vertical/TYPECHECK.md) · [final/myelin-habits.verified.json](final/myelin-habits.verified.json) · [vertical/final/myelin-habits-vertical.verified.json](vertical/final/myelin-habits-vertical.verified.json)

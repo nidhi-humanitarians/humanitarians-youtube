@@ -1,10 +1,10 @@
-# Multi-Hop Search: Connecting the Pieces (Part 2 of 2)
+# Multi-Hop Search: Connecting the Pieces
 
 **Fellow:** Nidhi Grover<br>
 **Project:** Iacon Autonomics (RL Environment project)<br>
 **Week:** Week 4 (2026-10-14 – 2026-10-20), completed late (2026-10-22)<br>
 **Late note:** This is the Week 4 STEM/AI video. The approach was reworked and the video recreated, so the final version was completed after Week 4; see [FRICTIONAL.md](FRICTIONAL.md).<br>
-**Type:** STEM/AI topic (Part 2 of 2; follows [Stuff It or Search It?](../2026-10-22-stuff-or-search/))<br>
+**Type:** STEM/AI topic (follows [Stuff It or Search It?](../2026-10-22-stuff-or-search/))<br>
 **Format:** 16:9 + 9:16<br>
 **Voice:** Kokoro `af_bella`<br>
 **Brand:** `claude-hai` (@HumanitariansAI)

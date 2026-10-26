@@ -32,9 +32,9 @@
 - **Evidence:** [agentic-repl](https://github.com/nidhi-humanitarians/agentic-repl)
 
 ## 2026-10-20 — Making the progress video
-*(Written late on 2026-10-24; describes work from 2026-10-20, ~14:15–17:50.)*
+*(Written late on 2026-10-24; describes work from 2026-10-20.)*
 
 - **Tried / expected:** A progress video under 2:30, 16:9 and 9:16 built together: the project change, then the work so far.
-- **Where it resisted / what I did next:** I corrected Claude's first understanding: it was a literature review when I was reassigned, not active work. I told it not to show any tokens or credentials (the problem statement I pasted contained one). Script edits I made: call it "Pi-style for testing" with Earendil's Pi agent as a next step; present it as very early work; drop B09 (that feature isn't available for testing); write "2,000+ page texts" instead of naming the quantum textbook; frame B07 clearly as a test question. Approved ~15:43; masters ready ~17:50.
+- **Where it resisted / what I did next:** I corrected Claude's first understanding: it was a literature review when I was reassigned, not active work. I told it not to show any tokens or credentials (the problem statement I pasted contained one). Script edits I made: call it "Pi-style for testing" with Earendil's Pi agent as a next step; present it as very early work; drop B09 (that feature isn't available for testing); write "2,000+ page texts" instead of naming the quantum textbook; frame B07 clearly as a test question. Approved the script the same day; both masters were ready that evening.
 - **Claude / others:** I provided the backstory, the problem statement and the repository. Claude translated them into a script and scenes, which I corrected (above) and approved. I also approved the final video.
 - **Evidence:** [SCRIPT.md](SCRIPT.md) · [FACTCHECK.md](FACTCHECK.md) · [final/search-dont-read.verified.json](final/search-dont-read.verified.json) · [video](https://www.youtube.com/watch?v=q5kbQpRghHs)

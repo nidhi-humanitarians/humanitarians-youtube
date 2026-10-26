@@ -1,10 +1,10 @@
-# Stuff It or Search It? (Part 1 of 2)
+# Stuff It or Search It?
 
 **Fellow:** Nidhi Grover<br>
 **Project:** Iacon Autonomics (RL Environment project)<br>
 **Week:** Week 3 (2026-10-07 – 2026-10-13), made late (built 2026-10-22)<br>
 **Late note:** This is the Week 3 STEM/AI video. It was produced after Week 3 because Brutalist setup issues blocked video production that week; see [Brutalist, Installed.](../2026-10-12-brutalist-installed/) and [FRICTIONAL.md](FRICTIONAL.md).<br>
-**Type:** STEM/AI topic (Part 1 of 2; continues in [Multi-Hop Search](../2026-10-22-multi-hop-search/))<br>
+**Type:** STEM/AI topic (continues in [Multi-Hop Search](../2026-10-22-multi-hop-search/))<br>
 **Format:** 16:9 + 9:16<br>
 **Voice:** Kokoro `af_bella`<br>
 **Brand:** `claude-hai` (@HumanitariansAI)

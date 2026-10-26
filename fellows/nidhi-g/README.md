@@ -60,7 +60,7 @@ Brutalist video reviews: [to be added]
 Renewal report: [RENEWAL.md](RENEWAL.md)
 
 ## Outstanding Issues
-- **Agreement:** The agreement period is listed as 2026-09-14 – 2026-10-31, but the completed, signed contract was received on 2026-09-22 at 21:15. Per program guidance, no work was performed before the signed agreement was in hand, so this record covers 2026-09-23 onward.
+- **Agreement:** The agreement period is listed as 2026-09-14 – 2026-10-31, but the completed, signed contract was received on 2026-09-22. Per program guidance, no work was performed before the signed agreement was in hand, so this record covers 2026-09-23 onward.
 - **Week 1 below 20 hours:** 5 hours, the first week after signing, spent on onboarding and project assignment.
 - **Brutalist setup:** I had a considerable number of issues setting up Brutalist (two failed attempts in Week 2, about 7 hours each) and discussed them with my project managers. These issues affected my ability to produce the weekly videos: there are no weekly videos for Weeks 1–2, and the Week 3 STEM/AI video was made late.
 - **Late videos:** The Week 3 STEM/AI video (*Stuff It or Search It?*) was made on 2026-10-22. The Week 4 STEM/AI video (*Multi-Hop Search*) was reworked and completed on 2026-10-22. Each video's README has a late note.

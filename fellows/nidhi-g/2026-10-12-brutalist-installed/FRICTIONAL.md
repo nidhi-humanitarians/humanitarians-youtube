@@ -9,7 +9,7 @@
 ---
 
 ## 2026-10-11 — Starting over: second install, read the error first
-*(Written late on 2026-10-24; describes work from 2026-10-11, ~21:00–23:00.)*
+*(Written late on 2026-10-24; describes work from 2026-10-11.)*
 
 - **What I was working on:** Giving up on patching the first install, deleting it, and setting Brutalist up again from a fresh copy. Before this, I watched the detailed Brutalist setup guide.
 - **Tried / expected:** Asked Claude Code whether this machine had every dependency the pipeline needs.
@@ -23,12 +23,12 @@
 - **Evidence:** [FACTCHECK.md](FACTCHECK.md) (every claim traced to real output) · `brutalist` git reflog (fresh clone of `nikbearbrown/brutalist.art`) · `brutalist` commits of 2026-10-11 ("setup: skip youtube/ and .venv/ in the ElevenLabs guard"; "setup: require python3 >= 3.10")
 
 ## 2026-10-11 → 10-12 — Making the video as proof the install works
-*(Written late on 2026-10-24; describes work from 2026-10-11 23:13 to 2026-10-12 ~15:45.)*
+*(Written late on 2026-10-24; describes work from 2026-10-11 to 2026-10-12.)*
 
 - **Tried / expected:** A test video about the install itself, so that a working video would prove the install was correct. I asked for a plan, the important paths, and the right video type before anything ran.
 - **Where it resisted / what I did next:**
   - Chose Bella as the voice and @HumanitariansAI as the channel; no dates or times on screen.
-  - Script v2 edits I asked for: say I used Claude Code for both installs; condense the second install to 2–3 beats; drop the "hidden assumptions" framing and call it an agentic video-creation pipeline using Claude. Approved 2026-10-12 00:03.
-  - Gate T passed 03:24 (one advisory: B07 narration reads the card aloud). 16:9 master ready ~03:35. Then I asked for the 9:16 version (started ~11:19); it was done by ~15:45.
+  - Script v2 edits I asked for: say I used Claude Code for both installs; condense the second install to 2–3 beats; drop the "hidden assumptions" framing and call it an agentic video-creation pipeline using Claude. Approved 2026-10-12.
+  - Gate T passed (one advisory: B07 narration reads the card aloud). The 16:9 master was ready on 2026-10-12; I then asked for the 9:16 version, which was finished the same day.
 - **Claude / others:** I provided the story of both installs and the evidence behind it. Claude translated that into a script, beat sheet and scenes, and ran the build. I reviewed the script, made the edits above, approved it, and approved the final video.
 - **Evidence:** [SCRIPT.md](SCRIPT.md) · [TYPECHECK.md](TYPECHECK.md) · [STATUS.md](STATUS.md) · [final/brutalist-installed.verified.json](final/brutalist-installed.verified.json) · [video](https://www.youtube.com/watch?v=t2tT4li77jM)

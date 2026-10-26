@@ -9,7 +9,7 @@ After my initial project (Kaggle Gemma Hackathon) was dropped, I moved to agenti
 ## Completed
 1. **Agentic search (multi-hop RAG)**: a Pi-style agent that searches long documents by writing code in a Python REPL. [Benchmark testing and debugging](https://github.com/nidhi-humanitarians/agentic-repl#5-complete-empirical-benchmark-records-1m-context-tier--2500-pages) · [Repository](https://github.com/nidhi-humanitarians/agentic-repl)
 2. **Myelin (LLM habit compiler)**: research, technical specification and repository scaffolding. [Technical specification](https://github.com/nidhi-humanitarians/myelin/blob/main/docs/DESIGN_SPECIFICATION.md) · [Repository](https://github.com/nidhi-humanitarians/myelin)
-3. **Brutalist setup and four videos**: two progress updates and a two-part STEM/AI series. [STEM/AI playlist](https://www.youtube.com/playlist?list=PLBfwlskHBwRM) · [Progress playlist](https://www.youtube.com/playlist?list=PLMg75wq-4wVw)
+3. **Brutalist setup and four videos**: three progress updates and two STEM/AI videos. [STEM/AI playlist](https://www.youtube.com/playlist?list=PLBfwlskHBwRM) · [Progress playlist](https://www.youtube.com/playlist?list=PLMg75wq-4wVw)
 
 ## Hours
 20+ hours in Weeks 2–4. Below 20: Week 1 (5 h, onboarding). Week 5 is partial (to 2026-10-25). Full record: [HOURS.md](HOURS.md)
