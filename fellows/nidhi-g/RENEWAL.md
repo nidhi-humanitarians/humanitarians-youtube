@@ -23,7 +23,7 @@ After my initial project (Kaggle Gemma Hackathon) was dropped, I moved to agenti
 | 2 · 09-30 – 10-06 | 20 | — (setup failed) | [Hours](HOURS.md#week-2--2026-09-30-to-2026-10-06) · [Setup test 1](2026-10-02-binary-search-test/FRICTIONAL.md) · [Setup test 2](2026-10-02-claude-liam-ribosomes-read-mrna/FRICTIONAL.md) |
 | 3 · 10-07 – 10-13 | 20.2 | [Progress](https://www.youtube.com/watch?v=t2tT4li77jM) · [STEM (late)](https://www.youtube.com/watch?v=bgagiyyImeI) | [Hours](HOURS.md#week-3--2026-10-07-to-2026-10-13) · [Progress log](2026-10-12-brutalist-installed/FRICTIONAL.md) · [STEM log](2026-10-22-stuff-or-search/FRICTIONAL.md) |
 | 4 · 10-14 – 10-20 | 20 | [Progress](https://www.youtube.com/watch?v=q5kbQpRghHs) · [STEM (late)](https://www.youtube.com/watch?v=rZhI6hPbIOs) | [Hours](HOURS.md#week-4--2026-10-14-to-2026-10-20) · [Progress log](2026-10-20-search-dont-read/FRICTIONAL.md) · [STEM log](2026-10-22-multi-hop-search/FRICTIONAL.md) |
-| 5 · 10-21 – 10-24 | 13 | In progress | [Hours](HOURS.md#week-5--2026-10-21-to-2026-10-27-in-progress) |
+| 5 · 10-21 – 10-24 | 13 | [Progress](https://www.youtube.com/watch?v=uJVnuI_coE8) | [Hours](HOURS.md#week-5--2026-10-21-to-2026-10-27-in-progress) · [Progress log](2026-10-24-myelin-habits/FRICTIONAL.md) |
 
 ## Next Period
 - Myelin habit compiler: 2026-10-27

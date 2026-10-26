@@ -30,11 +30,11 @@ Each **Hours** figure links to that week in [HOURS.md](HOURS.md). **Process logs
 | Week | Start | End | Hours | STEM/AI video | Progress video | Process logs | Other Evidence/Notes |
 |---|---|---|---|---|---|---|---|
 | 0 | 2026-09-14 | 2026-09-22 | — | — | — | — | Agreement signing period; signed agreement received 2026-09-22 |
-| 1 | 2026-09-23 | 2026-09-29 | [5](HOURS.md#week-1--2026-09-23-to-2026-09-29) | — | — | — | — |
-| 2 | 2026-09-30 | 2026-10-06 | [20](HOURS.md#week-2--2026-09-30-to-2026-10-06) | — (setup failed) | — (setup failed) | [Setup test 1](2026-10-02-binary-search-test/FRICTIONAL.md)<br>[Setup test 2](2026-10-02-claude-liam-ribosomes-read-mrna/FRICTIONAL.md)<br>[Project change](2026-10-20-search-dont-read/FRICTIONAL.md#2026-10-06--project-change) | — |
+| 1 | 2026-09-23 | 2026-09-29 | [5](HOURS.md#week-1--2026-09-23-to-2026-09-29) | — | — | — | Initial project assignment (Kaggle Gemma Hackathon) received 2026-09-28 |
+| 2 | 2026-09-30 | 2026-10-06 | [20](HOURS.md#week-2--2026-09-30-to-2026-10-06) | — (setup failed) | — (setup failed) | [Setup test 1](2026-10-02-binary-search-test/FRICTIONAL.md)<br>[Setup test 2](2026-10-02-claude-liam-ribosomes-read-mrna/FRICTIONAL.md) | Kaggle Gemma Hackathon dropped 2026-10-06 (differing competency expectations from the project managers) |
 | 3 | 2026-10-07 | 2026-10-13 | [20.2](HOURS.md#week-3--2026-10-07-to-2026-10-13) | [Why RAG fails for complex texts](https://www.youtube.com/watch?v=bgagiyyImeI) | [Brutalist Installation](https://www.youtube.com/watch?v=t2tT4li77jM) | [STEM](2026-10-22-stuff-or-search/FRICTIONAL.md)<br>[Progress](2026-10-12-brutalist-installed/FRICTIONAL.md) | [agentic-repl](https://github.com/nidhi-humanitarians/agentic-repl) |
 | 4 | 2026-10-14 | 2026-10-20 | [20](HOURS.md#week-4--2026-10-14-to-2026-10-20) | [Multi Hop Search](https://www.youtube.com/watch?v=rZhI6hPbIOs) | [Multi Hop Reasoning Project Update](https://www.youtube.com/watch?v=q5kbQpRghHs) | [STEM](2026-10-22-multi-hop-search/FRICTIONAL.md)<br>[Progress](2026-10-20-search-dont-read/FRICTIONAL.md) | [agentic-repl](https://github.com/nidhi-humanitarians/agentic-repl) |
-| 5 | 2026-10-21 | 2026-10-27 | [13 (so far)](HOURS.md#week-5--2026-10-21-to-2026-10-27-in-progress) | — | In progress | — | [myelin](https://github.com/nidhi-humanitarians/myelin) |
+| 5 | 2026-10-21 | 2026-10-27 | [13 (so far)](HOURS.md#week-5--2026-10-21-to-2026-10-27-in-progress) | — | [Myelin Project Update](https://www.youtube.com/watch?v=uJVnuI_coE8) | [Progress](2026-10-24-myelin-habits/FRICTIONAL.md) | [myelin](https://github.com/nidhi-humanitarians/myelin) |
 
 ## Completed Results
 
@@ -56,6 +56,4 @@ Renewal report: [RENEWAL.md](RENEWAL.md)
 - **Agreement:** The agreement period is listed as 2026-09-14 – 2026-10-31, but the completed, signed contract was received on 2026-09-22 at 21:15. Per program guidance, no work was performed before the signed agreement was in hand, so this record covers 2026-09-23 onward.
 - **Week 1 below 20 hours:** 5 hours, the first week after signing, spent on onboarding and project assignment.
 - **Brutalist setup:** I had a considerable number of issues setting up Brutalist (two failed attempts in Week 2, about 7 hours each) and discussed them with my project managers. These issues affected my ability to produce the weekly videos: there are no weekly videos for Weeks 1–2, and the Week 3 STEM/AI video was made late.
-- **Project change:** My initial project, the Kaggle Gemma Hackathon, was dropped on 2026-10-06 because of differing competency expectations from the project managers. I moved to the multi-hop RAG problem, and later received the Myelin assignment.
 - **Late videos:** The Week 3 STEM/AI video (*Stuff It or Search It?*) was made on 2026-10-22. The Week 4 STEM/AI video (*Multi-Hop Search*) was reworked and completed on 2026-10-22. Each video's README has a late note.
-- **Week 5:** In progress; the progress video and STEM/AI video are not finished yet.

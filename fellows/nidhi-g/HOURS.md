@@ -74,6 +74,6 @@ Weekly record of hours and tasks. Hours are split into **Video** (making STEM/AI
 **Hours so far:** 13 · Video 7 · Research 6
 
 - Created the backdated Week 3 STEM/AI video: [Stuff It or Search It?](2026-10-22-stuff-or-search/)
-- Week 5 progress video: in progress.
+- Created the Week 5 progress video: [Myelin: Teaching Agents Habits](2026-10-24-myelin-habits/)
 - Completed the initial research and technical specification for Myelin, plus basic scaffolding of the repository and testing: [myelin](https://github.com/nidhi-humanitarians/myelin) · [design specification](https://github.com/nidhi-humanitarians/myelin/blob/main/docs/DESIGN_SPECIFICATION.md)
 - Attended a group meeting.
