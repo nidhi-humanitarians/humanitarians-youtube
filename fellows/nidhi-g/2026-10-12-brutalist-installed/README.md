@@ -1,12 +1,16 @@
 # Brutalist, Installed.
 
-**Fellow:** Nidhi Grover (Iacon Autonomics — RL Environment project)
-**Week:** Week 3 (2026-10-07 – 2026-10-13)
-**Type:** Weekly progress update
-**Format:** 16:9 + 9:16 · Voice: Kokoro `af_bella` · Brand: `claude-hai` (@HumanitariansAI)
-**Pushed to repository:** [YYYY-MM-DD]
+**Fellow:** Nidhi Grover<br>
+**Project:** Iacon Autonomics (RL Environment project)<br>
+**Week:** Week 3 (2026-10-07 – 2026-10-13)<br>
+**Type:** Weekly progress update<br>
+**Format:** 16:9 + 9:16<br>
+**Voice:** Kokoro `af_bella`<br>
+**Brand:** `claude-hai` (@HumanitariansAI)
 
-**Video:** [Brutalist Installation (16:9)](https://www.youtube.com/watch?v=t2tT4li77jM) · **9:16 Short:** [Brutalist Installed (9:16)](https://www.youtube.com/watch?v=KDt-C4e7oWs) · **Renders (Drive):** [Brutalist Installation](https://drive.google.com/drive/folders/1DRpPJr-wWNYwDOKiVNm7hHMfMC3seAfo)
+**Video:** [Brutalist Installation (16:9)](https://www.youtube.com/watch?v=t2tT4li77jM)<br>
+**9:16 Short:** [Brutalist Installed (9:16)](https://www.youtube.com/watch?v=KDt-C4e7oWs)<br>
+**Renders (Drive):** [Brutalist Installation](https://drive.google.com/drive/folders/1DRpPJr-wWNYwDOKiVNm7hHMfMC3seAfo)
 
 ## What this video covers
 How I got Brutalist running on my Windows laptop, which took two installs, both with Claude Code. The first produced two test reels that failed at the review stage because of a Python version mismatch and gate checks. The second worked after reading each error before fixing it: a false-alarm ElevenLabs check, and a separate Python 3.12 environment for Manim. The video ends with the readiness check passing for everything except LaTeX, which this video doesn't need.

@@ -1,7 +1,11 @@
 # Frictional Log — Stuff It or Search It? (Part 1 of 2)
 
-Fellow: Nidhi Grover · Project: Iacon Autonomics (RL Environment) · Folder: `2026-10-22-stuff-or-search`
-Counts toward: Week 3 (2026-10-07 – 2026-10-13), STEM/AI video, made late (built 2026-10-22)
+**Fellow:** Nidhi Grover<br>
+**Project:** Iacon Autonomics (RL Environment)<br>
+**Folder:** `2026-10-22-stuff-or-search`<br>
+**Week:** Week 3 (2026-10-07 – 2026-10-13)<br>
+**Type:** STEM/AI video<br>
+**Late note:** Made late (built 2026-10-22)
 
 ---
 
@@ -19,5 +23,5 @@ Counts toward: Week 3 (2026-10-07 – 2026-10-13), STEM/AI video, made late (bui
 - **Tried / expected:** Expected this to build faster than the longer videos. It took longer, so I asked why.
 - **Where it resisted / what I did next:** Length wasn't the cause; beats and fix rounds were (12 beats, 9 animations). Five fix rounds, each another pass through compile and gates: the browser timed out on B00 (CPU contention); B03's faint lines failed contrast; text in the accent color in B04–B06 (a house rule Claude already knew); the B04 accent bar was misread as text; portrait B01 underfilled (re-rendered, measured 58% / 79% fill). 9:16 master done ~11:16. A cosmetic wrap in portrait B04 ("RULER (Hsieh et / al.)"): I said fix it, and it became two clean lines.
 - **Claude / others:** Claude carried out the build and the fix rounds. It said the accent-text error was its own mistake and saved a pre-render checklist to avoid repeats. I asked for the extra B04 fix and approved the final video.
-- **Understand now / still don't:** Build time depends on beat count and fix rounds, not video length. Running the gate checks before a long render saves hours. [Nidhi.]
+- **Understand now / still don't:** Build time depends on beat count and fix rounds, not video length. Running the gate checks before a long render saves hours.
 - **Evidence:** [TYPECHECK.md](TYPECHECK.md) · [STATUS.md](STATUS.md) · [final/stuff-or-search.verified.json](final/stuff-or-search.verified.json) · [video](https://www.youtube.com/watch?v=bgagiyyImeI)

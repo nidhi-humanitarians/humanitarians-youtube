@@ -1,10 +1,14 @@
 # How Ribosomes Read mRNA (setup test)
 
-**Fellow:** Nidhi Grover (Iacon Autonomics — RL Environment project)
-**Week:** Week 2 (2026-09-30 – 2026-10-06) · built 2026-10-02
-**Type:** Setup test (not a weekly video)
-**Format:** 16:9 · Voice: Kokoro `am_onyx` · Brand: `claude-liam` · Register: Teardown
-**Pushed to repository:** [YYYY-MM-DD]
+**Fellow:** Nidhi Grover<br>
+**Project:** Iacon Autonomics (RL Environment project)<br>
+**Week:** Week 2 (2026-09-30 – 2026-10-06)<br>
+**Built:** 2026-10-02<br>
+**Type:** Setup test (not a weekly video)<br>
+**Format:** 16:9<br>
+**Voice:** Kokoro `am_onyx`<br>
+**Brand:** `claude-liam`<br>
+**Register:** Teardown
 
 **Video:** None. This build did not complete.
 

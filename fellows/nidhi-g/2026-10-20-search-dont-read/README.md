@@ -1,12 +1,16 @@
 # Search, Don't Read.
 
-**Fellow:** Nidhi Grover (Iacon Autonomics — RL Environment project)
-**Week:** Week 4 (2026-10-14 – 2026-10-20)
-**Type:** Weekly progress update
-**Format:** 16:9 + 9:16 · Voice: Kokoro `af_bella` · Brand: `claude-hai` (@HumanitariansAI)
-**Pushed to repository:** [YYYY-MM-DD]
+**Fellow:** Nidhi Grover<br>
+**Project:** Iacon Autonomics (RL Environment project)<br>
+**Week:** Week 4 (2026-10-14 – 2026-10-20)<br>
+**Type:** Weekly progress update<br>
+**Format:** 16:9 + 9:16<br>
+**Voice:** Kokoro `af_bella`<br>
+**Brand:** `claude-hai` (@HumanitariansAI)
 
-**Video:** [Multi Hop Reasoning Project Update (16:9)](https://www.youtube.com/watch?v=q5kbQpRghHs) · **9:16 Short:** [Multi Hop Reasoning Project Update (9:16)](https://www.youtube.com/watch?v=ZPdHuFTseyM) · **Renders (Drive):** [Change of project + Initial Scoping](https://drive.google.com/drive/folders/1GWB5gZtdz8Hx1Ed03l8L9s7Oxz_3ZWhX)
+**Video:** [Multi Hop Reasoning Project Update (16:9)](https://www.youtube.com/watch?v=q5kbQpRghHs)<br>
+**9:16 Short:** [Multi Hop Reasoning Project Update (9:16)](https://www.youtube.com/watch?v=ZPdHuFTseyM)<br>
+**Renders (Drive):** [Change of project + Initial Scoping](https://drive.google.com/drive/folders/1GWB5gZtdz8Hx1Ed03l8L9s7Oxz_3ZWhX)
 
 ## What this video covers
 My first steps in research on agentic search. I started on a Kaggle competition about post-training Google's Gemma as a developer agent (literature review on RLVR, PostTrainBench and HumanEval). That project was scoped beyond what the fellowship could take on, and I was reassigned. The new question: how well can an agent search a document far too long to read by writing code? I built a small test repository ([agentic-repl](https://github.com/nidhi-humanitarians/agentic-repl)), a Pi-style agent loop with a Python REPL and search helpers (`grep`, `read_lines`), and tested it on one BABILong qa2 question at 128k tokens (~275 pages). On the first run it answered correctly, citing the lines it used.

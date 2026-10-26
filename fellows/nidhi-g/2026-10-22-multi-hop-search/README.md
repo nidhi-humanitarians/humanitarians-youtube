@@ -1,13 +1,17 @@
 # Multi-Hop Search: Connecting the Pieces (Part 2 of 2)
 
-**Fellow:** Nidhi Grover (Iacon Autonomics — RL Environment project)
-**Week:** Week 4 (2026-10-14 – 2026-10-20), completed late (2026-10-22)
-**Late note:** This is the Week 4 STEM/AI video. The approach was reworked and the video recreated, so the final version was completed after Week 4; see [FRICTIONAL.md](FRICTIONAL.md).
-**Type:** STEM/AI topic (Part 2 of 2; follows [Stuff It or Search It?](../2026-10-22-stuff-or-search/))
-**Format:** 16:9 + 9:16 · Voice: Kokoro `af_bella` · Brand: `claude-hai` (@HumanitariansAI)
-**Pushed to repository:** [YYYY-MM-DD]
+**Fellow:** Nidhi Grover<br>
+**Project:** Iacon Autonomics (RL Environment project)<br>
+**Week:** Week 4 (2026-10-14 – 2026-10-20), completed late (2026-10-22)<br>
+**Late note:** This is the Week 4 STEM/AI video. The approach was reworked and the video recreated, so the final version was completed after Week 4; see [FRICTIONAL.md](FRICTIONAL.md).<br>
+**Type:** STEM/AI topic (Part 2 of 2; follows [Stuff It or Search It?](../2026-10-22-stuff-or-search/))<br>
+**Format:** 16:9 + 9:16<br>
+**Voice:** Kokoro `af_bella`<br>
+**Brand:** `claude-hai` (@HumanitariansAI)
 
-**Video:** [Multi Hop Search (16:9)](https://www.youtube.com/watch?v=rZhI6hPbIOs) · **9:16 Short:** [Multi Hop Search (9:16)](https://www.youtube.com/watch?v=LtSznIq6a4Q) · **Renders (Drive):** [Multi Hop RAG as a solution](https://drive.google.com/drive/folders/1F9S9nrZLlIegFSwHQeWrjB-UXb9l2836)
+**Video:** [Multi Hop Search (16:9)](https://www.youtube.com/watch?v=rZhI6hPbIOs)<br>
+**9:16 Short:** [Multi Hop Search (9:16)](https://www.youtube.com/watch?v=LtSznIq6a4Q)<br>
+**Renders (Drive):** [Multi Hop RAG as a solution](https://drive.google.com/drive/folders/1F9S9nrZLlIegFSwHQeWrjB-UXb9l2836)
 
 ## What this video covers
 Methods that connect scattered facts instead of retrieving once and answering: iterative retrieval, where each finding shapes the next search; question decomposition (Self-Ask); interleaved reasoning and retrieval (IRCoT); and entity graphs that link facts across chunks (GraphRAG). It then shows my early agentic-search work ([agentic-repl](https://github.com/nidhi-humanitarians/agentic-repl)), an agent that writes `grep`/`read_lines` code to follow the trail (one question, one run). It covers why answers need line-level citations in fields like insurance, healthcare and law, the privacy benefit of searching locally, the cost of extra hops, and the benchmarks used to measure all this (HotpotQA, MuSiQue, BABILong).
